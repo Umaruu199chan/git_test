@@ -1,2 +1,2 @@
 # git_test
-HELLO ODIN
+Git_Test created for practice purpose only. 
